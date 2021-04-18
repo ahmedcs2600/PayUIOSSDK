@@ -1,0 +1,33 @@
+
+/* Class = "UITableViewController"; title = "Master"; ObjectID = "7bK-jq-Zjz"; */
+"7bK-jq-Zjz.title" = "Master";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Arm-wq-HPj"; */
+"Arm-wq-HPj.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "clear cache"; ObjectID = "Cx1-nc-4Vb"; */
+"Cx1-nc-4Vb.normalTitle" = "clear cache";
+
+/* Class = "UIViewController"; title = "Detail"; ObjectID = "JEX-9P-axG"; */
+"JEX-9P-axG.title" = "Detail";
+
+/* Class = "UINavigationController"; title = "Master"; ObjectID = "RMx-3f-FxP"; */
+"RMx-3f-FxP.title" = "Master";
+
+/* Class = "UILabel"; text = "Payment completed succesfully"; ObjectID = "VSl-Yk-uZI"; */
+"VSl-Yk-uZI.text" = "Payment completed succesfully";
+
+/* Class = "UINavigationItem"; title = "Items"; ObjectID = "Zdf-7t-Un8"; */
+"Zdf-7t-Un8.title" = "Items";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "Zhf-Ia-lwJ"; */
+"Zhf-Ia-lwJ.normalTitle" = "Pay";
+
+/* Class = "UINavigationItem"; title = "Checkout"; ObjectID = "mOI-FS-AaM"; */
+"mOI-FS-AaM.title" = "Checkout";
+
+/* Class = "UILabel"; text = "<product name>"; ObjectID = "or4-W5-rcj"; */
+"or4-W5-rcj.text" = "<product name>";
+
+/* Class = "UILabel"; text = "<total price>"; ObjectID = "uHO-Hq-nf4"; */
+"uHO-Hq-nf4.text" = "<total price>";
